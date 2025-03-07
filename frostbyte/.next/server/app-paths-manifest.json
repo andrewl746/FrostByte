@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/sign-up/page": "app/sign-up/page.js",
+  "/sign-in/page": "app/sign-in/page.js",
+  "/components/Dashboard/page": "app/components/Dashboard/page.js",
+  "/SavedOutfits/page": "app/SavedOutfits/page.js",
+  "/FrostbyteGuardian/page": "app/FrostbyteGuardian/page.js"
+}
